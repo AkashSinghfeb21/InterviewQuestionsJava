@@ -4,7 +4,7 @@ public class revIntRec {
         return n;
      }
 
-     System.out.print(n%10);//1234%10=
+     System.out.print(n%10);//1234%10=432
 
      return rev(n/10);
     }
